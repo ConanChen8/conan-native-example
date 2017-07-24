@@ -1,0 +1,45 @@
+{
+  "_from": "conan-native-example@1.0.1",
+  "_id": "conan-native-example@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Y05whoqJkbsukBWBN9pbeZfNuSFROaRRH0vwcSnBQN2yA0lrsV2aPcXa/gl9ax0sTjMhSQV2CtGqdeBS4xX8AQ==",
+  "_location": "/conan-native-example",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "conan-native-example@1.0.1",
+    "name": "conan-native-example",
+    "escapedName": "conan-native-example",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/conan-native-example/-/conan-native-example-1.0.1.tgz",
+  "_shasum": "df928b4304f8686b4a70a3535742feb2892b39da",
+  "_spec": "conan-native-example@1.0.1",
+  "_where": "/Users/conanchen/Desktop/example",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ConanChen8/conan-native-example/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/ConanChen8/conan-native-example#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "conan-native-example",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConanChen8/conan-native-example.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
